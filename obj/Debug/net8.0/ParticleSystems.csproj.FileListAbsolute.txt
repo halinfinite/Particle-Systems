@@ -29,3 +29,4 @@
 /Users/buraksensoy/dev/c-sharp/ParticleSystems/ParticleSystems/obj/Debug/net8.0/ParticleSystems.pdb
 /Users/buraksensoy/dev/c-sharp/ParticleSystems/ParticleSystems/obj/Debug/net8.0/ParticleSystems.genruntimeconfig.cache
 /Users/buraksensoy/dev/c-sharp/ParticleSystems/ParticleSystems/obj/Debug/net8.0/ref/ParticleSystems.dll
+/Users/buraksensoy/dev/c-sharp/ParticleSystems/ParticleSystems/obj/Debug/net8.0/ParticleSystems.sourcelink.json

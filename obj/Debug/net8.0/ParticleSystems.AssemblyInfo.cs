@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ParticleSystems")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04cf3743c2f4c5ea1b0e51a4a111aa0942e87d1e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ParticleSystems")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ParticleSystems")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
